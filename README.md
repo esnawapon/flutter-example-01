@@ -1,2 +1,3 @@
-# flutter-example-01
-flutter skeleton project with clean architecture and bloc
+# Flutter Example 01
+
+Flutter skeleton project with clean architecture and bloc
